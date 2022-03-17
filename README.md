@@ -1,2 +1,2 @@
 # simplilearn_asstmt
-nothing just an exp
+nothing just an expmt
